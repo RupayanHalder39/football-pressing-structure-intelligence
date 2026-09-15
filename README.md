@@ -253,8 +253,6 @@ Potential extensions include:
 
 ## Research Context
 
-This project is part of my broader Ph.D. research on:
-
 > **AI-Driven Tactical Intelligence in Football**
 
 The broader goal is to convert football video and tracking data into explainable tactical recommendations that coaches and analysts can inspect and use.
