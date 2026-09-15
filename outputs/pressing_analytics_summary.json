@@ -1,0 +1,24 @@
+{
+  "input": "outputs/tracking/testVideo1_120s/tracking.parquet (read-only)",
+  "cleaned_view_summary": {
+    "n_raw_tracks": 136,
+    "n_cleaned_segments": 1348,
+    "n_rejected_transitions": 1212,
+    "mean_segments_per_track": 9.91
+  },
+  "possession_state_counts": {
+    "FREE_BALL": 682,
+    "UNCERTAIN": 589,
+    "BALL_LOST": 2069,
+    "CONTROLLED": 258
+  },
+  "n_frames_with_confident_carrier": 249,
+  "pct_frames_with_confident_carrier": 6.9,
+  "n_pressing_events": 11,
+  "outcome_counts": {
+    "UNCERTAIN": 4,
+    "SUCCESS": 3,
+    "FAILED": 4
+  },
+  "elapsed_sec": 1.99
+}

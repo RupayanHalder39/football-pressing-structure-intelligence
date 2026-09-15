@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Large video/media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Temporary files
+tmp/
+temp/
+*.log
